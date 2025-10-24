@@ -1,29 +1,29 @@
-# 🧠 DeepCSAT – E-Commerce Customer Satisfaction Prediction
+#  DeepCSAT – E-Commerce Customer Satisfaction Prediction
 
-## 📄 Project Overview
+## Project Overview
 **DeepCSAT** is a data-driven machine learning project designed to predict **Customer Satisfaction (CSAT)** levels for e-commerce customer service interactions.  
 By analyzing support records, agent performance metrics, and operational conditions, this project identifies the key drivers that impact customer experience.
 
 ---
 
-## 🧭 Domain
+## Domain
 **Business / E-Commerce / Customer Analytics**
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 E-commerce companies often struggle to identify why customer satisfaction varies across service interactions.  
 The objective of this project is to **predict customer satisfaction (CSAT scores)** using historical support data and to determine which factors — such as handling time, agent performance, or service conditions — have the greatest influence.  
 This allows management to proactively improve agent training, response processes, and overall customer experience.
 
 ---
 
-## 🧩 Project Type
+## Project Type
 **Exploratory Data Analysis (EDA) / Classification / Explainable AI**
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Programming Language:** Python  
 - **Environment:** Google Colab  
 - **Libraries Used:**
@@ -35,7 +35,7 @@ This allows management to proactively improve agent training, response processes
 
 ---
 
-## 📊 Workflow Summary
+## Workflow Summary
 
 ### **1. Import Libraries**
 Imported all key libraries for data handling, visualization, machine learning, and explainability.
@@ -82,7 +82,3 @@ Imported all key libraries for data handling, visualization, machine learning, a
 ### **10. Conclusion**
 The **DeepCSAT** system successfully demonstrates how customer satisfaction can be modeled and explained through machine learning.  
 By combining interpretability and predictive modeling, this project enables data-driven improvement in e-commerce customer service.
-
----
-
-## 📁 Folder Structure
